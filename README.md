@@ -1,5 +1,7 @@
 # juejin Command Line tools
 
+[![](https://badge.juejin.im/entry/5a5f1a056fb9a01c9332b64a/likes.svg?style=flat)](https://juejin.im/post/5a5f18246fb9a01cb42c64f4)
+
 ## install
 
 ```bash
